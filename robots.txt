@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ternamen.github.io/sitemap.ternamen.gz
+Sitemap: https://ternamen.github.io/app/sitemap.ternamen.gz
+Sitemap: https://ternamen.github.io/assets/sitemap.ternamen.gz
+Sitemap: https://ternamen.github.io/css/sitemap.ternamen.gz
+Sitemap: https://ternamen.github.io/data/sitemap.ternamen.gz
+Sitemap: https://ternamen.github.io/includes/sitemap.ternamen.gz
+Sitemap: https://ternamen.github.io/item/sitemap.ternamen.gz
+Sitemap: https://ternamen.github.io/src/sitemap.ternamen.gz
